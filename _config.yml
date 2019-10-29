@@ -8,9 +8,9 @@ url: "http://www.wangjiajun.me"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "OP" # 填写作者信息：名字
+  email: 694967190@qq.com # 填写作者信息：邮箱
+  bio: "慵懒散漫，拖沓成性" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
