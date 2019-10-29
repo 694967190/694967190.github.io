@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "文章归档"
+title: "博客文章"
+description: ""看看吧，这就是我的生活记录了"
 header-img: "img/orange.jpg"
 ---
 

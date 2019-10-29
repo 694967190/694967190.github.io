@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "milestone"
-description: "代表作"
+title: "得意之作"
+description: "废物也有得意的地方"
 header-img: "img/zhihu.jpg"
 ---
 
