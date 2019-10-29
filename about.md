@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "博客简介"
-description: "慵懒散漫，拖沓成性 " 
+description: "慵懒散漫，拖沓成性" 
+top:"Laziness and laziness It's all I have"
 header-img: "img/green.jpg"
 ---
 <p>30岁以下的青少年</p>
