@@ -12,7 +12,6 @@ from time import sleep
 import requests
 from bs4 import BeautifulSoup
 import re
-
 def recv(serial):
     while True:
         data = serial.read(size=17)
@@ -22,14 +21,12 @@ def recv(serial):
             break
         sleep(0.02)
     return data
-
 if __name__ == '__main__':
     serial = serial.Serial('COM5', 9600, timeout=0.5)  #/dev/ttyUSB0
     if serial.isOpen() :
         print("open success")
     else :
         print("open failed")
-
     while True:
         data =recv(serial)
         if data != b'' :
