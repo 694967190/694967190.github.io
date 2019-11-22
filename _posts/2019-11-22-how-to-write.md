@@ -6,8 +6,7 @@ categories: blog
 tags: [宽宽和我]
 description: 
 ---
-<img src="img/favicon.png">
-
+<![alt](http://wangjiajun.me/img/favicon.png)>
 
 
 
